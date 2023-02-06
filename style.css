@@ -1,0 +1,28 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+  background-image: url('img/bg2.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+}
+.display-4,
+.lead {
+  color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+section {
+  padding-top: 5rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.card:hover {
+  transition: 1s ease ease-in;
+  padding-top: 5px;
+  box-shadow: 5px 3px -2px;
+}
